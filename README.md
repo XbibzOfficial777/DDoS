@@ -19,7 +19,7 @@
 1. Pastikan Python 3.8+ terinstall
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/xbibz/DumpLocUltimate.git
+   git clone https://github.com/XbibzOfficial777/DumpImagine.git
    cd DumpImagine
    ```
 3. Install dependencies:
