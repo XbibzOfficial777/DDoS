@@ -1,8 +1,3 @@
-Berikut adalah file `README.md` dan `LICENSE` yang profesional dan menarik untuk proyek Anda:
-
----
-
-### README.md
 ```markdown
 # DumpLoc Ultimate - Image Metadata Extractor
 
