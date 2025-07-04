@@ -70,7 +70,7 @@ Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu unt
 
 - Author: Xbibz Official (MR. Nexo444)
 - Email: xbibzofficial@gmail.com
-- Telegram: @XbibzOfficiall
+- Telegram: @XbibzOfficiall(https://t.me/XbibzOfficiall)
 
 ---
 
