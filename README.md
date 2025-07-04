@@ -1,5 +1,4 @@
-```markdown
-# DumpLoc Ultimate - Image Metadata Extractor
+# DumpLoc Imagine - Image Metadata Extractor
 
 ![Tools](https://github.com/user-attachments/assets/59f81078-026a-469d-9cbf-1c5dde493e41)  <!-- Ganti dengan URL banner Anda -->
 
