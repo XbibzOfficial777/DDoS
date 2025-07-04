@@ -22,3 +22,5 @@
    ```bash
    git clone https://github.com/xbibz/DumpLocUltimate.git
    cd DumpImg
+```bash
+python3 dmp.py
