@@ -20,7 +20,7 @@
 2. Clone repositori ini:
    ```bash
    git clone https://github.com/xbibz/DumpLocUltimate.git
-   cd DumpLocUltimate
+   cd DumpImagine
    ```
 3. Install dependencies:
    ```bash
@@ -69,8 +69,8 @@ Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu unt
 ## 📧 Kontak
 
 - Author: Xbibz Official (MR. Nexo444)
-- Email: your.email@example.com
-- Telegram: @yourusername
+- Email: xbibzofficial@gmail.com
+- Telegram: @XbibzOfficiall
 
 ---
 
